@@ -1,5 +1,3 @@
-fdbfebghthnvsffvsfvfvhudvyf
-
 # 💘 Will You Be My Valentine? — Funny Interactive Web Card
 
 A cute + funny Valentine “Ask Out” mini website 😄  
