@@ -11,7 +11,10 @@ Click **Yes** to unlock the happy ending 🐻❤️
 ![bemine](https://github.com/user-attachments/assets/80326da0-a657-4020-a5d2-fb29a7f924ae)
 
 
-![Website Demo](https://dilum-randira.github.io/BeMine/)
+## 🌍 Live Demo
+
+✅ Try it here: https://dilum-randira.github.io/BeMine/
+
 
 ---
 
