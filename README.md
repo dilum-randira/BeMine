@@ -1,4 +1,4 @@
-ergt33# 💘 Will You Be My Valentine? — Funny Interactive Web Card
+greergt33# 💘 Will You Be My Valentine? — Funny Interactive Web Card
 
 A cute + funny Valentine “Ask Out” mini website 😄  
 Click **No** and it becomes harder to say no... 😂  
