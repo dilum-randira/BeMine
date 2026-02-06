@@ -1,4 +1,4 @@
-# 💘 Will You Be My Valentine? — Funny Interactive Web Card
+fg# 💘 Will You Be My Valentine? — Funny Interactive Web Card
 A cute + funny Valentine “Ask Out” mini website 😄  
 Click **No** and it becomes harder to say no... 😂  
 Click **Yes** to unlock the happy ending 🐻❤️
@@ -19,7 +19,7 @@ Click **Yes** to unlock the happy ending 🐻❤️
 
 ## ✨ Features
 
-- 🧸 Cute animated GIFs
+- 🧸 Cute animated GIFsr
 - 😂 Funny “No” button phrases that get more dramatic
 - 📈 **Yes** button grows bigger every time you click **No**
 - 📱 Mobile-friendly responsive design
